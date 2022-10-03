@@ -28,7 +28,7 @@ const FormNotification = () => {
               Notify me
             </a>
           </form>
-          <span className="text-base text-center">
+          <span className="text-base text-center md:text-left">
             We care bout the protection of your data. Read our
             <a href="/" className="text-green hover:underline ml-1">
               Privacy Policy.
