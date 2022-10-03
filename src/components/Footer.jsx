@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className="text-white px-4 py-14">
       <div className="max-w-[1000px] w-full mx-auto flex flex-col md:flex-row gap-8">
-        <div className="w-[90%] mx-auto md-w-[35%]">
+        <div className="w-[90%] mx-auto md:w-[35%]">
           <h1 className="text-lg md:text-xl font-bold tracking-widest text-green">
             REACT.
           </h1>
